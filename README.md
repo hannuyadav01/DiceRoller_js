@@ -1,0 +1,1 @@
+A simple and interactive Dice Roller web application built using JavaScript, HTML, and CSS. This project simulates rolling a dice and displays a random number between 1 and 6 each time the user rolls.
